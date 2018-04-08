@@ -1,7 +1,7 @@
 package cn.flyingxiao.euler;
 
 /**
- * Created by Mtime on 2018/3/27.
+ * Created by flyingxiao on 2018/3/27.
  */
 public class LargestPrimeFactor {
     public static void main(String[] args) {
